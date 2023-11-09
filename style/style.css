@@ -29,9 +29,7 @@ body {
   .location button {
     padding: 5px 10px;
     background-color: #159647;
-    border: none;
-    cursor: pointer;
-    
+    border: none;  
   }
   button:hover{
     background-color: rgb(219, 35, 75);
