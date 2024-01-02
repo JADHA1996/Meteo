@@ -18,6 +18,7 @@ document.getElementById("getWeather").addEventListener("click", function() {
         console.error("Erreur lors de la récupération des données météorologiques : " + error.message);
       });
   });
+
   
   
   
